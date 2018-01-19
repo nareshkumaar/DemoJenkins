@@ -9,7 +9,7 @@ public class DemoJenkinsJob {
 		System.out.println("Welcome to Jenkins World");
 
 	}
-	
+
 	@Test
 	public void testJenkins2() {
 		System.out.println("Running the 2nd TC");
