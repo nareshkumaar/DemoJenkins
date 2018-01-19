@@ -15,4 +15,9 @@ public class DemoJenkinsJob {
 		System.out.println("Running the 2nd TC");
 
 	}
+	
+	@Test
+	public void testBranch(){
+		System.out.println("Adding TC for Branch Test");
+	}
 }
